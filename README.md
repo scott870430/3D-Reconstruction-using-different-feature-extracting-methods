@@ -18,3 +18,10 @@ experiment on how features affect the results of SFM algorithm
   * Tomasi and Kanade Factorization
 
 
+## usage
+
+Choose which method you want to execute
+```
+python 3D_reconstruction.py
+```
+
