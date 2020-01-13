@@ -20,7 +20,7 @@ experiment on how features affect the results of SFM algorithm
 
 ## Usage
 
-Choose which method you want to execute 
+Choose which method you want to execute in the code
 ```
 python 3D_reconstruction.py
 ```
