@@ -12,13 +12,13 @@ experiment on how features affect the results of SFM algorithm
   * SURF
   * ORB
   
-## reconstruction
+## Reconstruction
 
 * Structure from Motion
   * Tomasi and Kanade Factorization
 
 
-## usage
+## Usage
 
 Choose which method you want to execute
 ```
